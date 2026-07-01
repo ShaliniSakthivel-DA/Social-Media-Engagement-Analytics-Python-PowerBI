@@ -1,0 +1,2 @@
+# Social-Media-Engagement-Analytics-Python-PowerBI
+Social Media Engagement Analytics project analyzes social media data including posts, users, likes, comments, shares, impressions, watch time, followers, and engagement rate. It focuses on data cleaning, EDA, visualization, and insights to understand content performance, audience behavior, and improve content strategies to improve content reach!!!
